@@ -45,10 +45,10 @@ To 'clone' as closely as I can the Under Armour website.
 * [Heart Icon](https://www.underarmour.com/en-us/my-account/favorites)
 * [Basket Icon](https://www.underarmour.com/en-us/cart)
 
-3. Flexbox Center: Never Out of Miles
+3. Section One
 - Elements:
 * Links:
- i. [UA CHARGED ROGUE . . . SHOP NOW](https://www.underarmour.com/en-us/footwear/running/g/3rha?iid=hero&iidasset=190104_Run_ChargedRogue)
+
 
 4. Secondary Banner: New Arrivals
 - Elements:
