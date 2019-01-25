@@ -2,3 +2,13 @@
   background-color: #000;
   display: block;
 }
+
+a {
+  color: #fff;
+  text-decoration: none;
+  line-height: 30px;
+}
+
+#top-nav-message {
+  text-align: center;
+}
