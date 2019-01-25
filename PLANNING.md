@@ -145,6 +145,8 @@ To 'clone' as closely as I can the Under Armour website.
 | Behavior | Input | Output |
 |----------|-------|--------|
 
+## Work Log (to track work done without code written)
+10 am - researching node_modules/@types/jasmine/index.d.ts errors that I'm getting when trying to run Jasmine tests on the basic project delivered using Angular CLI. It looks like it may be a versioning issue between Jasmine & TypeScript. I don't know yet.
 
 ## Planning Guidelines (for my own reference)
 
