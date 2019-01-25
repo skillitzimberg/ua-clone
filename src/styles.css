@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  color: #1d1d1d;
+  font-weight: 400;
+  line-height: 15px;
+}
+
+:after, :before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
