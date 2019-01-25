@@ -4,17 +4,18 @@
   border: 1px solid #333;
 }
 
-.editorial-row {
+.row {
     margin-right: 0;
     margin-left: 0;
     padding-right: 0;
     padding-left: 0
 }
 
-.editorial-column {
+.col-sm {
     padding-right: 0;
     padding-left: 0;
-    text-align: center
+    text-align: center;
+    width: 50%;
 }
 
 .col-6 {
