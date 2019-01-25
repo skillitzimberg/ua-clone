@@ -64,7 +64,7 @@ To 'clone' as closely as I can the Under Armour website.
   i. [Curry 6](https://www.underarmour.com/en-us/steph-curry-collection/g/325t?iid=bucket&iidasset=190104_C6)
   ii. [UA Hover Phantom](https://www.underarmour.com/en-us/sportstyle-shoes/hovr/g/33yb418?iid=bucket&iidasset=180509_SS19_HOVR_Confetti)
 
-6. Homepage Secondary Row: Athlete Recovery / Armour Box / UA Icon
+6. Special Content: Athlete Recovery / Armour Box / UA Icon
 - Elements:
 * Links:
   i. [Athlete Recovery](https://www.underarmour.com/en-us/recovery/g/33xh?iid=bucket&iidasset=180706_Recovery_Sleep_M_HPT)
