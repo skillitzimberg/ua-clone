@@ -78,14 +78,68 @@ To 'clone' as closely as I can the Under Armour website.
 - Elements:
 * Logo
 * Footer Menu
+  - Newsletter Sign Up
+  - UA Community Icons / Link
+  - Customer Service
+    i. [Help & FAQs](http://underarmour.custhelp.com/)
+    ii. [Live Chat](https://www.underarmour.com/en-us/#)
+    iii. [Returns](https://www.underarmour.com/en-us/returnlabel)
+    iv. [Order Tracking](https://www.underarmour.com/en-us/my-account/guest-login)
+    iv. [Shipping & Delivery](https://www.underarmour.com/en-us/customer-service/shipping)
+    v. [Change Region](https://www.underarmour.com/en-us/change-region)
+    vi. [Store Locator](https://www.underarmour.com/en-us/find-a-store)
+    vii. [Promos & Offers](https://www.underarmour.com/en-us/promos-offers)
+    viii. [Size Charts](https://www.underarmour.com/en-us/size-charts)
+    ix. [Gift Cards](https://www.underarmour.com/en-us/gift-card-landing)
 
+    - About Under Armour
+    i. [About Us](https://about.underarmour.com/about)
+    [UA Newsroom](https://about.underarmour.com/news)
+    [Careers](http://www.underarmour.jobs/)
+    [UA Community](https://www.wewill.city/)
+    [Investor Relations](http://investor.underarmour.com/investors.cfm)
+    [Affiliates](https://www.underarmour.com/en-us/affiliate-home)
+    [Product Recalls](https://productsafety.underarmour.com/)
+    [Business Development](https://developer.underarmour.com/)
+    [Site Map](https://www.underarmour.com/en-us/sitemap)
+    [Corporate Sales](https://www.underarmour.com/en-us/merchology)
+
+    - legal
+      * copyright
+      * privacy
+      * term & conditions
+      * cookie preferences
+
+## Planned Homepage Components
+- Top Nav
+- Main Nav
+- Center (for Flexbox Center)
+- Banner (for Secondary Banner)
+- Bucket (for Secondary Bucket)
+- Secondary Row
+- Social (for Social Shop)
+- Footer
+
+## Build Out Guidelines
+* More directives (practice with ngIf, ngFor, and more).
+* Full CRUD functionality that changes your models.
+* Firebase (a noSQL database) instead of a hard-coded dataset.
+* Seed data for your database.
+* Pipes for filtering data.
+* A router for adding additional pages.
+* Authentication and route guards.
+* Deployment (as a dry run for next week).
+* API calls.
+* CSS styling.
+* Tests using Jasmine and Protractor.
 
 ## Use Cases
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] User can view item
+- [ ] User can add item to cart
+- [ ] User can checkout / place order
+- [ ] User can subscribe to email newsletter
+- [ ] User can search for items
+- [ ] User can mark items as favorites
 
 ## Specifications:
 | Behavior | Input | Output |
