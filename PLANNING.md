@@ -20,16 +20,22 @@ To 'clone' as closely as I can the Under Armour website.
 - [ ]
 
 ## Define Website Structure
-1. Top menu links:
-  i. [FREE Returns & FREE U.S. Standard Shipping Orders $60+](https://www.underarmour.com/en-us/customer-service/shipping);  
-  ii. [Country dropdown](https://www.underarmour.com/en-us/change-region);
-  ii. [Chat](https://www.underarmour.com/en-us/#);
-  iii. [Stores](https://www.underarmour.com/en-us/find-a-store);
-  iv. [Log In](https://www.underarmour.com/en-us/login);
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+1. Top nav links:
+  i. [FREE Returns & FREE U.S. Standard Shipping Orders $60+](https://www.underarmour.com/en-us/customer-service/shipping)  
+  ii. [Country dropdown](https://www.underarmour.com/en-us/change-region)
+  ii. [Chat](https://www.underarmour.com/en-us/#)
+  iii. [Stores](https://www.underarmour.com/en-us/find-a-store)
+  iv. [Log In](https://www.underarmour.com/en-us/login)
+
+2. Main menu links
+  i. [Logo](https://www.underarmour.com/en-us)
+  ii. [Men](https://www.underarmour.com/en-us/mens)
+  iii. [Women](https://www.underarmour.com/en-us/womens)
+  iv. [Boys](https://www.underarmour.com/en-us/boys)
+  v. [Girls](https://www.underarmour.com/en-us/girls)
+  vi. [Shoes](https://www.underarmour.com/en-us/footwear)
+  vi. [Outlet](https://www.underarmour.com/en-us/https://www.underarmour.com/en-us/outlet/g/6)
+
 
 ## Use Cases
 - [ ]
