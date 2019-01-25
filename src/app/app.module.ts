@@ -7,6 +7,7 @@ import { TopNavComponent } from './top-nav/top-nav.component';
 import { MainNavComponent } from './main-nav/main-nav.component';
 import { TopSectionComponent } from './top-section/top-section.component';
 import { NewArrivalsComponent } from './new-arrivals/new-arrivals.component';
+import { SecondaryBucketComponent } from './secondary-bucket/secondary-bucket.component';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { NewArrivalsComponent } from './new-arrivals/new-arrivals.component';
     TopNavComponent,
     MainNavComponent,
     TopSectionComponent,
-    NewArrivalsComponent
+    NewArrivalsComponent,
+    SecondaryBucketComponent
   ],
   imports: [
     BrowserModule
