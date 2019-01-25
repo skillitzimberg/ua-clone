@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { TopNavComponent } from './top-nav/top-nav.component';
 import { MainNavComponent } from './main-nav/main-nav.component';
 import { TopSectionComponent } from './top-section/top-section.component';
+import { NewArrivalsComponent } from './new-arrivals/new-arrivals.component';
 
 
 @NgModule({
@@ -13,7 +14,8 @@ import { TopSectionComponent } from './top-section/top-section.component';
     AppComponent,
     TopNavComponent,
     MainNavComponent,
-    TopSectionComponent
+    TopSectionComponent,
+    NewArrivalsComponent
   ],
   imports: [
     BrowserModule
