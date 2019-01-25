@@ -1,4 +1,10 @@
 .first {
+  background-image: url(https://images.unsplash.com/photo-1534367507873-d2d7e24c797f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60);
+  background-size: cover;
   height: 481.250px;
   border: 1px solid #333;
+}
+
+img {
+  width: 100%;
 }
