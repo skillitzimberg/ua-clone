@@ -1,0 +1,6 @@
+#ua-top-nav-wrapper {
+  box-sizing: border-box;
+  border-bottom: 1px solid #555;
+  color: rgb(29, 29, 29);
+  display: block;
+}
