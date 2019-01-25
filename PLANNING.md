@@ -22,6 +22,7 @@ To 'clone' as closely as I can the Under Armour website.
 ## Define Website Structure
 ### Sections
 1. Top Nav
+- Elements:
 * Links:
   i. [FREE Returns & FREE U.S. Standard Shipping Orders $60+](https://www.underarmour.com/en-us/customer-service/shipping)  
   ii. [Country dropdown](https://www.underarmour.com/en-us/change-region)
@@ -30,6 +31,7 @@ To 'clone' as closely as I can the Under Armour website.
   iv. [Log In](https://www.underarmour.com/en-us/login)
 
 2. Main Nav
+- Elements:
 * Links:
   i. [Logo](https://www.underarmour.com/en-us)
   ii. [Men](https://www.underarmour.com/en-us/mens)
@@ -39,11 +41,17 @@ To 'clone' as closely as I can the Under Armour website.
   vi. [Shoes](https://www.underarmour.com/en-us/footwear)
   vi. [Outlet](https://www.underarmour.com/en-us/https://www.underarmour.com/en-us/outlet/g/6)
 
+* Search Bar
+* [Heart Icon](https://www.underarmour.com/en-us/my-account/favorites)
+* [Basket Icon](https://www.underarmour.com/en-us/cart)
+
 3. Flexbox Center: Never Out of Miles
+- Elements:
 * Links:
  i. [UA CHARGED ROGUE . . . SHOP NOW](https://www.underarmour.com/en-us/footwear/running/g/3rha?iid=hero&iidasset=190104_Run_ChargedRogue)
 
 4. Secondary Banner: New Arrivals
+- Elements:
 * Links:
   i. [Men](https://www.underarmour.com/en-us/new-arrivals/mens/g/39272?iid=banner&iidasset=text)
   ii. [Women](https://www.underarmour.com/en-us/new-arrivals/womens/g/3c272?iid=banner&iidasset=text)
@@ -51,13 +59,26 @@ To 'clone' as closely as I can the Under Armour website.
   iv. [Girls](https://www.underarmour.com/en-us/new-arrivals/girls/g/3i272?iid=banner&iidasset=text)
 
 5. Secondary Bucket Section: Curry 6 / UA Hover Phantom
+- Elements:
+* Links:
   i. [Curry 6](https://www.underarmour.com/en-us/steph-curry-collection/g/325t?iid=bucket&iidasset=190104_C6)
   ii. [UA Hover Phantom](https://www.underarmour.com/en-us/sportstyle-shoes/hovr/g/33yb418?iid=bucket&iidasset=180509_SS19_HOVR_Confetti)
 
 6. Homepage Secondary Row: Athlete Recovery / Armour Box / UA Icon
+- Elements:
+* Links:
   i. [Athlete Recovery](https://www.underarmour.com/en-us/recovery/g/33xh?iid=bucket&iidasset=180706_Recovery_Sleep_M_HPT)
   ii. [Armour Box](https://www.underarmour.com/en-us/armourbox?iid=bucket&iidasset=171002_QT_ArmourBox_HPT)
   iii. [UA Icon](https://www.underarmour.com/en-us/ua-icon-customized-gear?iid=bucket&iidasset=180424_HPT_UAIcon_SS18Launch)
+
+7. Social Shop: Shop Our Instagram: iframe/widget photo gallery.
+- Elements: ???
+
+8. Footer
+- Elements:
+* Logo
+* Footer Menu
+
 
 ## Use Cases
 - [ ]
