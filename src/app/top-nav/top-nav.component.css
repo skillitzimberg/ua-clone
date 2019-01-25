@@ -12,3 +12,15 @@ a {
 #top-nav-message {
   text-align: center;
 }
+
+.util-links {
+  display: block;
+  position: absolute;
+  right: 16px;
+  top: 0;
+}
+
+.chat-link, .ua-top-nav-site-picker, .stores-link, .ua-top-nav-account {
+  display: inline-block;
+  margin-right: 16px;
+}
