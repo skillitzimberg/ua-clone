@@ -20,14 +20,17 @@ To 'clone' as closely as I can the Under Armour website.
 - [ ]
 
 ## Define Website Structure
-1. Top nav links:
+### Sections
+1. Top nav
+* Links:
   i. [FREE Returns & FREE U.S. Standard Shipping Orders $60+](https://www.underarmour.com/en-us/customer-service/shipping)  
   ii. [Country dropdown](https://www.underarmour.com/en-us/change-region)
   ii. [Chat](https://www.underarmour.com/en-us/#)
   iii. [Stores](https://www.underarmour.com/en-us/find-a-store)
   iv. [Log In](https://www.underarmour.com/en-us/login)
 
-2. Main menu links
+2. Main menu
+* Links:
   i. [Logo](https://www.underarmour.com/en-us)
   ii. [Men](https://www.underarmour.com/en-us/mens)
   iii. [Women](https://www.underarmour.com/en-us/womens)
@@ -36,6 +39,10 @@ To 'clone' as closely as I can the Under Armour website.
   vi. [Shoes](https://www.underarmour.com/en-us/footwear)
   vi. [Outlet](https://www.underarmour.com/en-us/https://www.underarmour.com/en-us/outlet/g/6)
 
+3. Flexbox Center
+* Links:
+ i. [UA CHARGED ROGUE . . . SHOP NOW](https://www.underarmour.com/en-us/footwear/running/g/3rha?iid=hero&iidasset=190104_Run_ChargedRogue)
+ ii. []
 
 ## Use Cases
 - [ ]
