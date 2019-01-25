@@ -1,0 +1,17 @@
+.bucket-section {
+  position: relative;
+  width: 100%
+}
+
+.editorial-row {
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 0;
+    padding-left: 0
+}
+
+.editorial-column {
+    padding-right: 0;
+    padding-left: 0;
+    text-align: center
+}
