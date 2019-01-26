@@ -21,3 +21,141 @@ footer {
 .footer-logo-wrap {
     margin: 0 15px
 }
+
+.footer-menu-cont {
+    padding: 20px 10px
+}
+
+.footer-logo {
+    line-height: 54px;
+    color: #000;
+    font-size: 10px;
+    margin-left: 5px
+}
+
+.footer-menu-cont {
+    padding: 20px 10px
+}
+
+.footer-block {
+    margin-top: 15px;
+    vertical-align: top;
+    display: inline-block
+}
+
+.footer-block .footer-block-header {
+    color: #1d1d1d;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 0
+}
+
+.footer-block .footer-block-signup-messaging {
+    margin-bottom: 10px
+}
+
+.footer-block .footer-block-links {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    -webkit-column-gap: 15px;
+    -moz-column-gap: 15px;
+    column-gap: 15px
+}
+
+.footer-block .footer-block-link {
+    color: #5a5a5a;
+    font-size: 12px;
+    line-height: 2
+}
+
+.footer-block .footer-block-link:active,.footer-block .footer-block-link:focus,.footer-block .footer-block-link:hover {
+    color: #b4b4b4;
+    text-decoration: none
+}
+
+.footer-newsletter-signup {
+    margin-bottom: 25px
+}
+
+.footer-newsletter-signup .ua-close {
+    margin-left: 10px
+}
+
+.footer-email-form input {
+    padding: 10px;
+    width: 60%;
+    border: 1px solid #b4b4b4
+}
+
+.footer-email-form button {
+    width: 30%;
+    max-width: 90px;
+    border: 2px solid #000;
+    background: 0 0;
+    padding: 9px 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 15px
+}
+
+.footer-social {
+    vertical-align: top
+}
+
+.footer-social .emblems {
+    margin-top: 8px
+}
+
+.footer-email-error,.footer-email-success {
+    margin: 10px 0 0;
+    border: 1px solid #1d1d1d;
+    padding: 10px
+}
+
+.footer-email-error {
+    border-color: #e51b24;
+    color: #e51b24
+}
+
+.email-confirmation-body {
+    margin-top: 5px
+}
+
+.footer-social {
+    margin-bottom: 10px
+}
+
+.footer-social a,.footer-social a:hover {
+    text-decoration: none
+}
+
+.footer-social .gs-icon {
+    margin-right: 4px;
+    display: inline-block
+}
+
+.footer-copyright {
+    padding: 15px 15px 30px 10px;
+    font-size: 11px;
+    clear: both
+}
+
+.footer-copyright .footer-copyright-links+.footer-copyright-links:before {
+    content: "\00a0 | \00a0";
+    margin: 0 5px
+}
+
+.footer-copyright .footer-copyright-links {
+    display: inline-block
+}
+
+.footer-copyright .footer-copyright-links a {
+    color: #1d1d1d
+}
+
+.footer-copyright .footer-copyright-links a:active,.footer-copyright .footer-copyright-links a:focus,.footer-copyright .footer-copyright-links a:hover {
+    color: #b4b4b4;
+    text-decoration: none
+}
