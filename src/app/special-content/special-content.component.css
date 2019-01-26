@@ -1,12 +1,17 @@
 .row {
-  padding: 20px 50px;
-  background-color: grey;
+  padding: 70px 30px 95px 30px;
+  background-color: rgb(240, 240, 240);
+  max-width: 1600px;
+  position: relative;
 }
 
 .col-4 {
+  padding-right: 10px;
+  padding-left: 10px;
   text-align: center;
 }
 
 img {
+  display: inline-block;
   width: 70%;
 }
