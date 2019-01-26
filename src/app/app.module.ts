@@ -10,6 +10,7 @@ import { NewArrivalsComponent } from './new-arrivals/new-arrivals.component';
 import { SecondaryBucketComponent } from './secondary-bucket/secondary-bucket.component';
 import { SpecialContentComponent } from './special-content/special-content.component';
 import { SocialShopComponent } from './social-shop/social-shop.component';
+import { FooterComponent } from './footer/footer.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { SocialShopComponent } from './social-shop/social-shop.component';
     NewArrivalsComponent,
     SecondaryBucketComponent,
     SpecialContentComponent,
-    SocialShopComponent
+    SocialShopComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule
