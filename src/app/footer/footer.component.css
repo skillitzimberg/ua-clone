@@ -1,0 +1,23 @@
+footer {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: #f0f0f0
+}
+
+.footer-logo-bar {
+  height: 60px;
+  background: #fff;
+  border-width: 5px 0 1px;
+  border-color: #000;
+  border-style: solid;
+  margin: 0 -15px;
+  font-size: 16px;
+  letter-spacing: 2px;
+  font-weight: 800;
+}
+
+.footer-logo-wrap {
+    margin: 0 15px
+}
