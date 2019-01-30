@@ -1,7 +1,7 @@
 # UaClone
-This project is an attempt to 'clone' the Under Armour website.
+This project is an attempt to 'clone' the [Under Armour website](https://www.underarmour.com/en-us/).
 
-The initial project directories and files were generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+You can see the current state of my project deployed [here](https://ua-clone.firebaseapp.com).
 
 ### Author
 Scott Bergler  
@@ -16,6 +16,9 @@ Scott Bergler
 **[Copyright](#copyright)**<br>
 
 ## Resources
+
+The initial project directories and files were generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+
 [PROJECT PLANNING](./PLANNING.md): Outlines planning criteria, use cases, specifications, notes, and errata.
 
 See [SETUP.md](./SETUP.md) for details about tools you may need to install and use to work on and use this project on your Mac.  
