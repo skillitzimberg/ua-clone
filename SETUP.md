@@ -78,6 +78,19 @@ cd ua-clone/
 
 Open the project in a text editor like Atom or VS Code.
 
+#### Run the application
+In the project root directory run the command:
+```
+npm install
+```
+
+Run the command:
+```
+ng serve --open
+```
+
+Your default browser should open a new window or tab with the website/app ready to use at [localhost:4200](localhost:4200).  
+
 ### Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

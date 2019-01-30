@@ -7,31 +7,55 @@ The initial project directories and files were generated with [Angular CLI](http
 Scott Bergler  
 
 ## Table of contents
-**[Description](#description)**<br>
 **[Resources](#resources)**<br>
 **[Setup & Installation](#setup-and-installation)**<br>
 **[Known Bugs](#known-bugs)**<br>
-**[Support](#support-and-contact-details)**<br>
+**[Support](#support)**<br>
 **[Technologies Used](#technologies-used)**<br>
 **[License](#license)**<br>
 **[Copyright](#copyright)**<br>
+
+## Resources
+[PROJECT PLANNING](./PLANNING.md): Outlines planning criteria, use cases, specifications, notes, and errata.
 
 ## Setup and Installation
 See [SETUP.md](./SETUP.md) for details about tools you may need to install and use to work on and use this project on your Mac.  
 
 Here are some links in case you need information about setup for other operating systems:  
-[Node JS](https://nodejs.org/en/);
-[Angular](https://angular.io/);
-[Jasmine](https://jasmine.github.io/);
-[Karma](https://karma-runner.github.io/latest/index.html);
-[TypeScript](https://www.typescriptlang.org/).
+[Angular](https://angular.io/)  
+[Angularfire](https://github.com/angular/angularfire2)  
+[Firebase](https://firebase.google.com/)  
+[Karma](https://karma-runner.github.io/latest/index.html)  
+[Jasmine](https://jasmine.github.io/)  
+[Node JS](https://nodejs.org/en/)  
+[TypeScript](https://www.typescriptlang.org/)
 
-## Resources
-[PROJECT PLANNING](./PLANNING.md): Outlines planning criteria, use cases, specifications, notes, and errata.
+### Quick setup
+Fork the repository from [GitHub](https://github.com/skillitzimberg/ua-clone).  
+Clone your forked repository.  
+
+Use your preferred command line/terminal to navigate into the directory:
+```
+cd ua-clone/
+```
+
+Open the project in a text editor like Atom or VS Code.
+
+#### Run the application
+In the project root directory run the command:
+```
+npm install
+```
+
+Run the command:
+```
+ng serve --open
+```
+Your default browser should open a new window or tab with the website/app ready to use at [localhost:4200](localhost:4200).  
 
 ## Known Bugs
 
-## Support and contact details
+## Support
 Scott Bergler :: commandinghands@gmail.com
 
 ## Technologies Used
