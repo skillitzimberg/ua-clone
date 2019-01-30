@@ -18,7 +18,6 @@ Scott Bergler
 ## Resources
 [PROJECT PLANNING](./PLANNING.md): Outlines planning criteria, use cases, specifications, notes, and errata.
 
-## Setup and Installation
 See [SETUP.md](./SETUP.md) for details about tools you may need to install and use to work on and use this project on your Mac.  
 
 Here are some links in case you need information about setup for other operating systems:  
@@ -30,8 +29,11 @@ Here are some links in case you need information about setup for other operating
 [Node JS](https://nodejs.org/en/)  
 [TypeScript](https://www.typescriptlang.org/)
 
-### Quick setup
+## Setup and Installation
+After making sure that you everything you need from [SETUP.md](./SETUP.md) . . .
+
 Fork the repository from [GitHub](https://github.com/skillitzimberg/ua-clone).  
+
 Clone your forked repository.  
 
 Use your preferred command line/terminal to navigate into the directory:
