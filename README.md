@@ -33,7 +33,7 @@ Here are some links in case you need information about setup for other operating
 [TypeScript](https://www.typescriptlang.org/)
 
 ## Setup and Installation
-After making sure that you everything you need from [SETUP.md](./SETUP.md) . . .
+After making sure that you have everything you need from [SETUP.md](./SETUP.md) . . .
 
 Fork the repository from [GitHub](https://github.com/skillitzimberg/ua-clone).  
 
