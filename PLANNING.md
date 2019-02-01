@@ -22,7 +22,7 @@ To 'clone' as closely as I can the Under Armour website.
 - [ x ] Footer
 
 ## Planned Main Menu Functionality
-- [ ] Create JSON object to import to Firebase as a database
+- [ x ] Create JSON object to import to Firebase as a database
 - [ x ] JSON/database will have:
 * Gender category: Men, Women, Boys, Girls
 * Type category: shoes, tops, bottoms, accessories
@@ -154,6 +154,14 @@ Reuse:
 * API calls.
 * CSS styling.
 * Tests using Jasmine and Protractor.
+* Built-in or custom pipes for filtering data.
+* A router for adding additional pages.
+* Authentication and route guards.
+* API calls.
+* CSS styling.
+* Tests using Jasmine and Protractor.
+* README styling such as screenshots and GIFs.
+* Anything else you can think of to make this a strong portfolio piece!
 
 ## Use Cases
 - [ ] User can view item
