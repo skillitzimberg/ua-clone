@@ -42,6 +42,8 @@ Reuse:
 - [ ] Top Nav
 - [ ] Main Nav
 - [ ] Footer
+
+New:
 - [ ] Item Store Container
 - [ ] Item Store Header
 - [ ] Item Grid
