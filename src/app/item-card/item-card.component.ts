@@ -6,11 +6,9 @@ import { Item } from '../item.model';
   templateUrl: './item-card.component.html',
   styleUrls: ['./item-card.component.css']
 })
-export class ItemCardComponent implements OnInit {
+export class ItemCardComponent {
   @Input() items: Item[];
-  constructor() { }
 
-  ngOnInit() {
-  }
+  constructor() { }
 
 }

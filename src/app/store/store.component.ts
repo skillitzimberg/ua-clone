@@ -23,7 +23,7 @@ export class StoreComponent implements OnInit {
   ngOnInit() {
     this.itemService.getItems()
     .subscribe((dataFromItemService) => {
-      this.items=dataFromItemService;
+      this.items = dataFromItemService;
     });
   }
 
