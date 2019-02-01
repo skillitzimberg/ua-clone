@@ -15,6 +15,9 @@ import { SocialShopComponent } from './social-shop/social-shop.component';
 import { FooterComponent } from './footer/footer.component';
 import { StoreComponent } from './store/store.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { IndexComponent } from './index/index.component';
+
+import { routing } from './app.routing';
 
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
@@ -35,12 +38,14 @@ export const firebaseConfig = {
     SocialShopComponent,
     FooterComponent,
     StoreComponent,
-    PageNotFoundComponent
+    PageNotFoundComponent,
+    IndexComponent
   ],
   imports: [
     BrowserModule,
     AngularFireModule.initializeApp(firebaseConfig),
-    AngularFireDatabaseModule
+    AngularFireDatabaseModule,
+    routing
   ],
   providers: [],
   bootstrap: [AppComponent]
