@@ -1,13 +1,39 @@
-{ "albums": [
+{ "items": [
   {
     "gender": "women",
     "category": "tops",
-    "subcategory": ["tank"],
+    "subcategories": ["tank"],
     "name": "sheer sport tank",
-    "description": "",
+    "description": "delicate, gossamer, tough",
+    "price": 300,
     "new arrival": true,
     "best seller": true,
     "outlet": true
-    }
+  },
+
+  {
+    "gender": "boys",
+    "category": "shoes",
+    "subcategories": ["soccer"],
+    "name": "twisted ankle",
+    "description": "spiky, fast, painful",
+    "price": 230,
+    "new arrival": false,
+    "best seller": true,
+    "outlet": false
+  },
+
+  {
+    "gender": "girls",
+    "category": "bottoms",
+    "subcategories": ["soccer"],
+    "name": "twisted ankle",
+    "description": "spiky, fast, painful",
+    "price": 87.50,
+    "new arrival": false,
+    "best seller": true,
+    "outlet": true
+  },
+
   ]
 }

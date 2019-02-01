@@ -23,7 +23,7 @@ To 'clone' as closely as I can the Under Armour website.
 
 ## Planned Main Menu Functionality
 - [ ] Create JSON object to import to Firebase as a database
-- [ ] JSON/database will have:
+- [ x ] JSON/database will have:
 * Gender category: Men, Women, Boys, Girls
 * Type category: shoes, tops, bottoms, accessories
 * Name: UA sportstyle left chest
@@ -47,7 +47,9 @@ Reuse:
 - [  ] Item Grid
 - [  ] Item Card
 
-## Potential
+## Potential Technical Needs For Item Display
+- Unsplash API call for item images
+- research storing/retrieving images with Firebase
 
 ## Define Website Structure
 ### Sections
