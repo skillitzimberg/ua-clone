@@ -193,6 +193,7 @@ New:
 - 11:15 am - refreshing/studying up on Angular pipes.
 - 11:30 am - still studying pipes.
 - 12 pm - still studying pipes.
+- 12:45 pm - continuing studying pipes.
 
 ## Planning Guidelines (for my own reference)
 
