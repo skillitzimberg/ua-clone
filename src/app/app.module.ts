@@ -14,6 +14,7 @@ import { SpecialContentComponent } from './special-content/special-content.compo
 import { SocialShopComponent } from './social-shop/social-shop.component';
 import { FooterComponent } from './footer/footer.component';
 import { StoreComponent } from './store/store.component';
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
@@ -33,7 +34,8 @@ export const firebaseConfig = {
     SpecialContentComponent,
     SocialShopComponent,
     FooterComponent,
-    StoreComponent
+    StoreComponent,
+    PageNotFoundComponent
   ],
   imports: [
     BrowserModule,
