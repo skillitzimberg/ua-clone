@@ -184,11 +184,14 @@ New:
 * Anything else you can think of to make this a strong portfolio piece!
 
 ## Work Log (to track work done without code written)
+**Jan. 25**
 - 10 am - researching node_modules/@types/jasmine/index.d.ts errors that I'm getting when trying to run Jasmine tests on the basic project delivered using Angular CLI. It looks like it may be a versioning issue between Jasmine & TypeScript. I don't know yet.  
 
+**Feb. 1**
 - 10:15 am - dissecting UA website's html/css in preparation for building out the store components.
 
 - 11:15 am - refreshing/studying up on Angular pipes.
+- 11:30 am - still studying pipes.
 
 ## Planning Guidelines (for my own reference)
 
