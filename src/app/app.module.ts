@@ -18,6 +18,7 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
 import { IndexComponent } from './index/index.component';
 
 import { routing } from './app.routing';
+import { StoreHeaderComponent } from './store-header/store-header.component';
 
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
@@ -39,7 +40,8 @@ export const firebaseConfig = {
     FooterComponent,
     StoreComponent,
     PageNotFoundComponent,
-    IndexComponent
+    IndexComponent,
+    StoreHeaderComponent
   ],
   imports: [
     BrowserModule,
