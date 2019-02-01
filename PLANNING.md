@@ -21,6 +21,9 @@ To 'clone' as closely as I can the Under Armour website.
 - [x] Social (for Social Shop)
 - [x] Footer
 
+## Unforeseen To Do's
+- [ ] refactor homepage to use routing and router-outlet. I will need to create an Index Component, I think.
+
 ## Planned Main Menu Functionality
 - [x] Create JSON object to import to Firebase as a database
 - [x] JSON/database will have:
