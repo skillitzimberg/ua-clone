@@ -1,17 +1,25 @@
 <app-store-header></app-store-header>
 
-<div *ngFor="let item of items" class="card card-default">
-  <div class="card-body">
-    <p>{{ item.gender }}</p>
-    <p>{{ item.category }}</p>
-    <ul>
-      <li *ngFor="let sub of subcategories">{{ sub }}</li>
-    </ul>
-    <p>{{ item.name }}</p>
-    <p>${{ item.price }}</p>
-    <p>{{ item.description }}</p>
-    <p>{{ item.newArrival }}</p>
-    <p>{{ item.bestSeller }}</p>
-    <p>{{ item.outlet }}</p>
+<div class="container">
+  <div class="row">
+    <app-item-card></app-item-card>
+    <div class="col-md-6" *ngFor="let item of items">
+      <div class="card card-default">
+        <div class="card-body">
+          <p>{{ item.gender }}</p>
+          <p>{{ item.category }}</p>
+          <ul>
+            <li *ngFor="let sub of subcategories">{{ sub }}</li>
+          </ul>
+          <p>{{ item.name }}</p>
+          <p>${{ item.price }}</p>
+          <p>{{ item.description }}</p>
+          <p>{{ item.newArrival }}</p>
+          <p>{{ item.bestSeller }}</p>
+          <p>{{ item.outlet }}</p>
+        </div>
+      </div>
+    </div>
+
   </div>
 </div>

@@ -19,6 +19,7 @@ import { IndexComponent } from './index/index.component';
 
 import { routing } from './app.routing';
 import { StoreHeaderComponent } from './store-header/store-header.component';
+import { ItemCardComponent } from './item-card/item-card.component';
 
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
@@ -41,7 +42,8 @@ export const firebaseConfig = {
     StoreComponent,
     PageNotFoundComponent,
     IndexComponent,
-    StoreHeaderComponent
+    StoreHeaderComponent,
+    ItemCardComponent
   ],
   imports: [
     BrowserModule,
