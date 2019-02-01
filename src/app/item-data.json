@@ -10,7 +10,6 @@
     "best seller": true,
     "outlet": true
   },
-
   {
     "gender": "boys",
     "category": "shoes",
@@ -22,7 +21,6 @@
     "best seller": true,
     "outlet": false
   },
-
   {
     "gender": "girls",
     "category": "bottoms",
@@ -33,7 +31,6 @@
     "new arrival": false,
     "best seller": true,
     "outlet": true
-  },
-
+  }
   ]
 }
