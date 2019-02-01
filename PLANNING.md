@@ -42,13 +42,13 @@ To 'clone' as closely as I can the Under Armour website.
 
 ## Planned Item Display Components
 Reuse:
-- [ ] Top Nav
-- [ ] Main Nav
-- [ ] Footer
+- [x] Top Nav
+- [x] Main Nav
+- [x] Footer
 
 New:
 - [x] Store Container
-- [ ] Store Header
+- [x] Store Header
 - [ ] Item Grid
 - [ ] Item Card
 - [ ] router
