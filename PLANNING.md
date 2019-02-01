@@ -201,6 +201,7 @@ New:
 - 12:45 pm - continuing studying pipes.
 - 1 pm - continuing work with & study of pipes.
 - 3:15 pm - researching searching in Angular.
+- 3:30 pm - continuing research on searching in Angular.
 
 ## Planning Guidelines (for my own reference)
 
