@@ -10,10 +10,7 @@ export class GenderPipe implements PipeTransform {
   transform(input: Item[], genderSelection) {
     let output: Item[] = [];
 
-    if ( input.length === 0 ) {
-      return input;
-
-    } else if ( genderSelection === "/men" ) {
+    if ( genderSelection === "/men" ) {
       for ( let i = 0; i < input.length; i++ ) {
         if ( input[i].gender === "men") {
           output.push(input[i]);
