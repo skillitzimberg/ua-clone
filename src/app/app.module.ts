@@ -20,6 +20,7 @@ import { routing } from './app.routing';
 import { StoreHeaderComponent } from './store-header/store-header.component';
 import { ItemCardComponent } from './item-card/item-card.component';
 import { GenderPipe } from './gender.pipe';
+import { AdminComponent } from './admin/admin.component';
 
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
@@ -44,7 +45,8 @@ export const firebaseConfig = {
     IndexComponent,
     StoreHeaderComponent,
     ItemCardComponent,
-    GenderPipe
+    GenderPipe,
+    AdminComponent
   ],
   imports: [
     BrowserModule,
