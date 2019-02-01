@@ -43,20 +43,22 @@
       <div>
         <label>Item NewArrival:</label>
         <br>
-        <input #newNewArrival>
+        <input type="checkbox" name="newArrival" #newNewArrival>
       </div>
 
       <div>
         <label>Item BestSeller:</label>
         <br>
-        <input #newBestSeller>
+        <input type="checkbox" name="bestSeller" #newBestSeller>
       </div>
 
       <div>
         <label>Item Outlet:</label>
         <br>
-        <input #newOutlet>
+        <input type="checkbox" name="outlet" #newOutlet>
       </div>
+
+      <button (click)="submitForm(newGender.value, newCategory.value, newSubcategory.value, newName.value, newDescription.value, newPrice.value, newNewArrival.value, newBestSeller.value, newOutlet.value)">Add</button>
 
     </div>
   </div>
