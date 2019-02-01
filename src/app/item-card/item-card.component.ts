@@ -8,8 +8,8 @@ import { Router } from '@angular/router';
   styleUrls: ['./item-card.component.css']
 })
 export class ItemCardComponent {
-  genderClicked: string = this.router.url;
-  
+  genderInUrl: string = this.router.url;
+
   @Input() items: Item[];
 
   constructor( private router: Router ) { }
