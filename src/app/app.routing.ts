@@ -7,7 +7,12 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
 
 const appRoutes: Routes = [
   { path: 'index', component: IndexComponent },
-  { path: 'store', component: StoreComponent },
+  { path: 'men', component: StoreComponent },
+  { path: 'women', component: StoreComponent },
+  { path: 'boys', component: StoreComponent },
+  { path: 'girls', component: StoreComponent },
+  { path: 'shoes', component: StoreComponent },
+  { path: 'outlet', component: StoreComponent },
   { path: '',   redirectTo: '/index', pathMatch: 'full' },
   { path: '**', component: PageNotFoundComponent }
  ];
