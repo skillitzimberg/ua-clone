@@ -58,22 +58,23 @@ New:
 - [x] router
 - [x] routes for men, women, boys, girls
 
-## Potential Technical Needs For Item Display
-- Unsplash API call for item images
-- research storing/retrieving images with Firebase
-
 ## Planned functionality
+- [ ] User can search for items
+- [ ] Dynamically change heading on items page to reflect chosen filter  
 - [ ] User can view item
 - [ ] User can add item to cart
 - [ ] User can checkout / place order
 - [ ] User can subscribe to email newsletter
-- [ ] User can search for items
 - [ ] User can mark items as favorites
 
-## Specifications:
+## Specifications
 | Behavior | Input | Output |
 |----------|-------|--------|
 
+
+## Potential Technical Needs For Item Display
+- Unsplash API call for item images
+- research storing/retrieving images with Firebase
 
 ## Define Website Structure
 ### Sections
@@ -199,6 +200,7 @@ New:
 - 12 pm - still studying pipes.
 - 12:45 pm - continuing studying pipes.
 - 1 pm - continuing work with & study of pipes.
+- 3:15 pm - researching searching in Angular.
 
 ## Planning Guidelines (for my own reference)
 
