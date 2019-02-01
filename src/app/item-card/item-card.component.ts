@@ -1,5 +1,6 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component,Input } from '@angular/core';
 import { Item } from '../item.model';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-item-card',
@@ -7,8 +8,10 @@ import { Item } from '../item.model';
   styleUrls: ['./item-card.component.css']
 })
 export class ItemCardComponent {
+  genderClicked: string = this.router.url;
+  
   @Input() items: Item[];
 
-  constructor() { }
+  constructor( private router: Router ) { }
 
 }

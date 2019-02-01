@@ -1,7 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
 import { FirebaseListObservable } from 'angularfire2/database';
-
 import { Item } from '../item.model';
 import { ItemService } from '../item.service';
 
