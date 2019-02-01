@@ -16,10 +16,10 @@ import { FooterComponent } from './footer/footer.component';
 import { StoreComponent } from './store/store.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { IndexComponent } from './index/index.component';
-
 import { routing } from './app.routing';
 import { StoreHeaderComponent } from './store-header/store-header.component';
 import { ItemCardComponent } from './item-card/item-card.component';
+import { GenderPipe } from './gender.pipe';
 
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
@@ -43,7 +43,8 @@ export const firebaseConfig = {
     PageNotFoundComponent,
     IndexComponent,
     StoreHeaderComponent,
-    ItemCardComponent
+    ItemCardComponent,
+    GenderPipe
   ],
   imports: [
     BrowserModule,

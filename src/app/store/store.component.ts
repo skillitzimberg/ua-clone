@@ -14,6 +14,7 @@ import { ItemService } from '../item.service';
 
 export class StoreComponent implements OnInit {
   items;
+  filterByGender: string;
 
   constructor(
     private itemService: ItemService
