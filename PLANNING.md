@@ -35,10 +35,14 @@ To 'clone' as closely as I can the Under Armour website.
 * New Arrival: boolean
 * Outlet: boolean
 * Best Seller: boolean
-- [ ] Click on Men in main menu navigates to display of all Gender category: Men items
-- [ ] Click on Women in main menu navigates to display of all Gender category: Women items
-- [ ] Click on Boys in main menu navigates to display of all Gender category: Boys items
-- [ ] Click on Girls in main menu navigates to display of all Gender category: Girls items
+- [x] Click on Men in main menu navigates to display of all Gender category: Men items
+- [x] Click on Women in main menu navigates to display of all Gender category: Women items
+- [x] Click on Boys in main menu navigates to display of all Gender category: Boys items
+- [x] Click on Girls in main menu navigates to display of all Gender category: Girls items
+- [x] Click on Men in main menu navigates to display of men Gender category: Men items
+- [x] Click on Women in main menu navigates to display of women Gender category: Women items
+- [x] Click on Boys in main menu navigates to display of boys Gender category: Boys items
+- [x] Click on Girls in main menu navigates to display of girls Gender category: Girls items
 
 ## Planned Item Display Components
 Reuse:
@@ -49,10 +53,10 @@ Reuse:
 New:
 - [x] Store Container
 - [x] Store Header
-- [ ] Item Grid
-- [ ] Item Card
-- [ ] router
-- [ ] routes for men, women, boys, girls
+- [x] Item Grid
+- [x] Item Card
+- [x] router
+- [x] routes for men, women, boys, girls
 
 ## Potential Technical Needs For Item Display
 - Unsplash API call for item images
