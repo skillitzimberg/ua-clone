@@ -188,6 +188,8 @@ New:
 
 - 10:15 am - dissecting UA website's html/css in preparation for building out the store components.
 
+- 11:15 am - refreshing/studying up on Angular pipes.
+
 ## Planning Guidelines (for my own reference)
 
 1. Configuration/dependencies
