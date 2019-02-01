@@ -44,14 +44,29 @@ Reuse:
 - [ ] Footer
 
 New:
-- [ ] Item Store Container
-- [ ] Item Store Header
+- [ ] Store Container
+- [ ] Store Header
 - [ ] Item Grid
 - [ ] Item Card
+- [ ] router
+- [ ] routes for men, women, boys, girls
 
 ## Potential Technical Needs For Item Display
 - Unsplash API call for item images
 - research storing/retrieving images with Firebase
+
+## Planned functionality
+- [ ] User can view item
+- [ ] User can add item to cart
+- [ ] User can checkout / place order
+- [ ] User can subscribe to email newsletter
+- [ ] User can search for items
+- [ ] User can mark items as favorites
+
+## Specifications:
+| Behavior | Input | Output |
+|----------|-------|--------|
+
 
 ## Define Website Structure
 ### Sections
@@ -59,25 +74,25 @@ New:
 - Elements:
 * Links:
   i. [FREE Returns & FREE U.S. Standard Shipping Orders $60+](https://www.underarmour.com/en-us/customer-service/shipping)  
-  ii. [Country dropdown](https://www.underarmour.com/en-us/change-region)
-  ii. [Chat](https://www.underarmour.com/en-us/#)
-  iii. [Stores](https://www.underarmour.com/en-us/find-a-store)
-  iv. [Log In](https://www.underarmour.com/en-us/login)
+  ii. [Country dropdown](https://www.underarmour.com/en-us/change-region)  
+  ii. [Chat](https://www.underarmour.com/en-us/#)  
+  iii. [Stores](https://www.underarmour.com/en-us/find-a-store)  
+  iv. [Log In](https://www.underarmour.com/en-us/login)  
 
 2. Main Nav
 - Elements:
 * Links:
-  i. [Logo](https://www.underarmour.com/en-us)
-  ii. [Men](https://www.underarmour.com/en-us/mens)
-  iii. [Women](https://www.underarmour.com/en-us/womens)
-  iv. [Boys](https://www.underarmour.com/en-us/boys)
-  v. [Girls](https://www.underarmour.com/en-us/girls)
-  vi. [Shoes](https://www.underarmour.com/en-us/footwear)
-  vi. [Outlet](https://www.underarmour.com/en-us/https://www.underarmour.com/en-us/outlet/g/6)
+  i. [Logo](https://www.underarmour.com/en-us)  
+  ii. [Men](https://www.underarmour.com/en-us/mens)  
+  iii. [Women](https://www.underarmour.com/en-us/womens)  
+  iv. [Boys](https://www.underarmour.com/en-us/boys)  
+  v. [Girls](https://www.underarmour.com/en-us/girls)  
+  vi. [Shoes](https://www.underarmour.com/en-us/footwear)  
+  vi. [Outlet](https://www.underarmour.com/en-us/https://www.underarmour.com/en-us/outlet/g/6)  
 
 * Search Bar
-* [Heart Icon](https://www.underarmour.com/en-us/my-account/favorites)
-* [Basket Icon](https://www.underarmour.com/en-us/cart)
+* [Heart Icon](https://www.underarmour.com/en-us/my-account/favorites)  
+* [Basket Icon](https://www.underarmour.com/en-us/cart)  
 
 3. Section One
 - Elements:
@@ -87,23 +102,23 @@ New:
 4. Secondary Banner: New Arrivals
 - Elements:
 * Links:
-  i. [Men](https://www.underarmour.com/en-us/new-arrivals/mens/g/39272?iid=banner&iidasset=text)
-  ii. [Women](https://www.underarmour.com/en-us/new-arrivals/womens/g/3c272?iid=banner&iidasset=text)
-  iii. [Boys](https://www.underarmour.com/en-us/new-arrivals/boys/g/3f272?iid=banner&iidasset=text)
-  iv. [Girls](https://www.underarmour.com/en-us/new-arrivals/girls/g/3i272?iid=banner&iidasset=text)
+  i. [Men](https://www.underarmour.com/en-us/new-arrivals/mens/g/39272?iid=banner&iidasset=text)  
+  ii. [Women](https://www.underarmour.com/en-us/new-arrivals/womens/g/3c272?iid=banner&iidasset=text)  
+  iii. [Boys](https://www.underarmour.com/en-us/new-arrivals/boys/g/3f272?iid=banner&iidasset=text)  
+  iv. [Girls](https://www.underarmour.com/en-us/new-arrivals/girls/g/3i272?iid=banner&iidasset=text)  
 
 5. Secondary Bucket Section: Curry 6 / UA Hover Phantom
 - Elements:
 * Links:
-  i. [Curry 6](https://www.underarmour.com/en-us/steph-curry-collection/g/325t?iid=bucket&iidasset=190104_C6)
-  ii. [UA Hover Phantom](https://www.underarmour.com/en-us/sportstyle-shoes/hovr/g/33yb418?iid=bucket&iidasset=180509_SS19_HOVR_Confetti)
+  i. [Curry 6](https://www.underarmour.com/en-us/steph-curry-collection/g/325t?iid=bucket&iidasset=190104_C6)  
+  ii. [UA Hover Phantom](https://www.underarmour.com/en-us/sportstyle-shoes/hovr/g/33yb418?iid=bucket&iidasset=180509_SS19_HOVR_Confetti)  
 
 6. Special Content: Athlete Recovery / Armour Box / UA Icon
 - Elements:
 * Links:
-  i. [Athlete Recovery](https://www.underarmour.com/en-us/recovery/g/33xh?iid=bucket&iidasset=180706_Recovery_Sleep_M_HPT)
-  ii. [Armour Box](https://www.underarmour.com/en-us/armourbox?iid=bucket&iidasset=171002_QT_ArmourBox_HPT)
-  iii. [UA Icon](https://www.underarmour.com/en-us/ua-icon-customized-gear?iid=bucket&iidasset=180424_HPT_UAIcon_SS18Launch)
+  i. [Athlete Recovery](https://www.underarmour.com/en-us/recovery/g/33xh?iid=bucket&iidasset=180706_Recovery_Sleep_M_HPT)  
+  ii. [Armour Box](https://www.underarmour.com/en-us/armourbox?iid=bucket&iidasset=171002_QT_ArmourBox_HPT)  
+  iii. [UA Icon](https://www.underarmour.com/en-us/ua-icon-customized-gear?iid=bucket&iidasset=180424_HPT_UAIcon_SS18Launch)  
 
 7. Social Shop: Shop Our Instagram: iframe/widget photo gallery.
 - Elements: ???
@@ -115,28 +130,28 @@ New:
   - Newsletter Sign Up
   - UA Community Icons / Link
   - Customer Service
-    i. [Help & FAQs](http://underarmour.custhelp.com/)
-    ii. [Live Chat](https://www.underarmour.com/en-us/#)
-    iii. [Returns](https://www.underarmour.com/en-us/returnlabel)
-    iv. [Order Tracking](https://www.underarmour.com/en-us/my-account/guest-login)
-    iv. [Shipping & Delivery](https://www.underarmour.com/en-us/customer-service/shipping)
-    v. [Change Region](https://www.underarmour.com/en-us/change-region)
-    vi. [Store Locator](https://www.underarmour.com/en-us/find-a-store)
+    i. [Help & FAQs](http://underarmour.custhelp.com/)  
+    ii. [Live Chat](https://www.underarmour.com/en-us/#)  
+    iii. [Returns](https://www.underarmour.com/en-us/returnlabel)  
+    iv. [Order Tracking](https://www.underarmour.com/en-us/my-account/guest-login)  
+    iv. [Shipping & Delivery](https://www.underarmour.com/en-us/customer-service/shipping)  
+    v. [Change Region](https://www.underarmour.com/en-us/change-region)  
+    vi. [Store Locator](https://www.underarmour.com/en-us/find-a-store)  
     vii. [Promos & Offers](https://www.underarmour.com/en-us/promos-offers)
-    viii. [Size Charts](https://www.underarmour.com/en-us/size-charts)
-    ix. [Gift Cards](https://www.underarmour.com/en-us/gift-card-landing)
+    viii. [Size Charts](https://www.underarmour.com/en-us/size-charts)  
+    ix. [Gift Cards](https://www.underarmour.com/en-us/gift-card-landing)  
 
     - About Under Armour
-    i. [About Us](https://about.underarmour.com/about)
-    [UA Newsroom](https://about.underarmour.com/news)
-    [Careers](http://www.underarmour.jobs/)
-    [UA Community](https://www.wewill.city/)
-    [Investor Relations](http://investor.underarmour.com/investors.cfm)
-    [Affiliates](https://www.underarmour.com/en-us/affiliate-home)
-    [Product Recalls](https://productsafety.underarmour.com/)
-    [Business Development](https://developer.underarmour.com/)
-    [Site Map](https://www.underarmour.com/en-us/sitemap)
-    [Corporate Sales](https://www.underarmour.com/en-us/merchology)
+    i. [About Us](https://about.underarmour.com/about)  
+    [UA Newsroom](https://about.underarmour.com/news)  
+    [Careers](http://www.underarmour.jobs/)  
+    [UA Community](https://www.wewill.city/)  
+    [Investor Relations](http://investor.underarmour.com/investors.cfm)  
+    [Affiliates](https://www.underarmour.com/en-us/affiliate-home)  
+    [Product Recalls](https://productsafety.underarmour.com/)  
+    [Business Development](https://developer.underarmour.com/)  
+    [Site Map](https://www.underarmour.com/en-us/sitemap)  
+    [Corporate Sales](https://www.underarmour.com/en-us/merchology)  
 
     - legal
       * copyright
@@ -164,18 +179,6 @@ New:
 * Tests using Jasmine and Protractor.
 * README styling such as screenshots and GIFs.
 * Anything else you can think of to make this a strong portfolio piece!
-
-## Use Cases
-- [ ] User can view item
-- [ ] User can add item to cart
-- [ ] User can checkout / place order
-- [ ] User can subscribe to email newsletter
-- [ ] User can search for items
-- [ ] User can mark items as favorites
-
-## Specifications:
-| Behavior | Input | Output |
-|----------|-------|--------|
 
 ## Work Log (to track work done without code written)
 10 am - researching node_modules/@types/jasmine/index.d.ts errors that I'm getting when trying to run Jasmine tests on the basic project delivered using Angular CLI. It looks like it may be a versioning issue between Jasmine & TypeScript. I don't know yet.
