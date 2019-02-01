@@ -5,19 +5,21 @@ To 'clone' as closely as I can the Under Armour website.
 
 ## Setup Instructions
 - [ ]   
-- [ ]   
-- [ ]   
 
 ## Assignment Objectives
 - [ ] Project includes a detailed README with information on all completed features as well as features to be added.
 - [ ] Project includes a detailed commit history that clearly shows at least eight hours of work between 8 and 5 on Friday. You are also welcome to put additional work into your project outside of that time frame.
 - [ ] Project demonstrates understanding of this week's concepts. If prompted, you are able to discuss your code with an instructor using correct terminology.
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+
+## Main Menu
+- [ ] Create JSON object to import to Firebase as a database
+- [ ] JSON/database will have:
+Gender category: Men, Women, Boys, Girls
+Type category: shoes, tops, bottoms, accessories
+Name: UA sportstyle left chest
+Subcategory: basketball Shoes
+Price:
+
 
 ## Define Website Structure
 ### Sections
