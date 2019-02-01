@@ -47,6 +47,8 @@ Reuse:
 - [  ] Item Grid
 - [  ] Item Card
 
+## Potential
+
 ## Define Website Structure
 ### Sections
 1. Top Nav

@@ -1,0 +1,13 @@
+{ "albums": [
+  {
+    "gender": "women",
+    "category": "tops",
+    "subcategory": ["tank"],
+    "name": "sheer sport tank",
+    "description": "",
+    "new arrival": true,
+    "best seller": true,
+    "outlet": true
+    }
+  ]
+}
