@@ -4,7 +4,7 @@
 To 'clone' as closely as I can the Under Armour website.
 
 ## Setup Instructions
-- [ x ] SETUP.md  
+- [x] SETUP.md  
 
 ## Assignment Objectives
 - [ ] Project includes a detailed README with information on all completed features as well as features to be added.
@@ -12,18 +12,18 @@ To 'clone' as closely as I can the Under Armour website.
 - [ ] Project demonstrates understanding of this week's concepts. If prompted, you are able to discuss your code with an instructor using correct terminology.
 
 ## Planned Homepage Components
-- [ x ] Top Nav
-- [ x ] Main Nav
-- [ x ] Center (for Flexbox Center)
-- [ x ] Banner (for Secondary Banner)
-- [ x ] Bucket (for Secondary Bucket)
-- [ x ] Secondary Row
-- [ x ] Social (for Social Shop)
-- [ x ] Footer
+- [x] Top Nav
+- [x] Main Nav
+- [x] Center (for Flexbox Center)
+- [x] Banner (for Secondary Banner)
+- [x] Bucket (for Secondary Bucket)
+- [x] Secondary Row
+- [x] Social (for Social Shop)
+- [x] Footer
 
 ## Planned Main Menu Functionality
-- [ x ] Create JSON object to import to Firebase as a database
-- [ x ] JSON/database will have:
+- [x] Create JSON object to import to Firebase as a database
+- [x] JSON/database will have:
 * Gender category: Men, Women, Boys, Girls
 * Type category: shoes, tops, bottoms, accessories
 * Name: UA sportstyle left chest
@@ -39,13 +39,13 @@ To 'clone' as closely as I can the Under Armour website.
 
 ## Planned Item Display Components
 Reuse:
-- [  ] Top Nav
-- [  ] Main Nav
-- [  ] Footer
-- [  ] Item Store Container
-- [  ] Item Store Header
-- [  ] Item Grid
-- [  ] Item Card
+- [ ] Top Nav
+- [ ] Main Nav
+- [ ] Footer
+- [ ] Item Store Container
+- [ ] Item Store Header
+- [ ] Item Grid
+- [ ] Item Card
 
 ## Potential Technical Needs For Item Display
 - Unsplash API call for item images
