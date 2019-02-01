@@ -47,7 +47,7 @@ Reuse:
 - [ ] Footer
 
 New:
-- [ ] Store Container
+- [x] Store Container
 - [ ] Store Header
 - [ ] Item Grid
 - [ ] Item Card
@@ -184,7 +184,9 @@ New:
 * Anything else you can think of to make this a strong portfolio piece!
 
 ## Work Log (to track work done without code written)
-10 am - researching node_modules/@types/jasmine/index.d.ts errors that I'm getting when trying to run Jasmine tests on the basic project delivered using Angular CLI. It looks like it may be a versioning issue between Jasmine & TypeScript. I don't know yet.
+- 10 am - researching node_modules/@types/jasmine/index.d.ts errors that I'm getting when trying to run Jasmine tests on the basic project delivered using Angular CLI. It looks like it may be a versioning issue between Jasmine & TypeScript. I don't know yet.  
+
+- 10:15 am - dissecting UA website's html/css in preparation for building out the store components.
 
 ## Planning Guidelines (for my own reference)
 
