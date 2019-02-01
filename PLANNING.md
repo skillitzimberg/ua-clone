@@ -4,22 +4,44 @@
 To 'clone' as closely as I can the Under Armour website.
 
 ## Setup Instructions
-- [ ]   
+- [ x ] SETUP.md  
 
 ## Assignment Objectives
 - [ ] Project includes a detailed README with information on all completed features as well as features to be added.
 - [ ] Project includes a detailed commit history that clearly shows at least eight hours of work between 8 and 5 on Friday. You are also welcome to put additional work into your project outside of that time frame.
 - [ ] Project demonstrates understanding of this week's concepts. If prompted, you are able to discuss your code with an instructor using correct terminology.
 
-## Main Menu
+## Planned Homepage Components
+- [ x ] Top Nav
+- [ x ] Main Nav
+- [ x ] Center (for Flexbox Center)
+- [ x ] Banner (for Secondary Banner)
+- [ x ] Bucket (for Secondary Bucket)
+- [ x ] Secondary Row
+- [ x ] Social (for Social Shop)
+- [ x ] Footer
+
+## Planned Main Menu Functionality
 - [ ] Create JSON object to import to Firebase as a database
 - [ ] JSON/database will have:
-Gender category: Men, Women, Boys, Girls
-Type category: shoes, tops, bottoms, accessories
-Name: UA sportstyle left chest
-Subcategory: basketball Shoes
-Price:
+* Gender category: Men, Women, Boys, Girls
+* Type category: shoes, tops, bottoms, accessories
+* Name: UA sportstyle left chest
+* Subcategory: basketball Shoes
+* Price: 500
+* New Arrival: boolean
+* Outlet: boolean
+* Best Seller: boolean
+- [ ] Click on Men in main menu navigates to display of all Gender category: Men items
+- [ ] Click on Women in main menu navigates to display of all Gender category: Women items
+- [ ] Click on Boys in main menu navigates to display of all Gender category: Boys items
+- [ ] Click on Girls in main menu navigates to display of all Gender category: Girls items
 
+## Planned Item Display
+Reuse:
+- [  ] Top Nav
+- [  ] Main Nav
+- [  ] Footer
 
 ## Define Website Structure
 ### Sections
@@ -111,16 +133,6 @@ Price:
       * privacy
       * term & conditions
       * cookie preferences
-
-## Planned Homepage Components
-- Top Nav
-- Main Nav
-- Center (for Flexbox Center)
-- Banner (for Secondary Banner)
-- Bucket (for Secondary Bucket)
-- Secondary Row
-- Social (for Social Shop)
-- Footer
 
 ## Build Out Guidelines
 * More directives (practice with ngIf, ngFor, and more).
