@@ -37,11 +37,15 @@ To 'clone' as closely as I can the Under Armour website.
 - [ ] Click on Boys in main menu navigates to display of all Gender category: Boys items
 - [ ] Click on Girls in main menu navigates to display of all Gender category: Girls items
 
-## Planned Item Display
+## Planned Item Display Components
 Reuse:
 - [  ] Top Nav
 - [  ] Main Nav
 - [  ] Footer
+- [  ] Item Store Container
+- [  ] Item Store Header
+- [  ] Item Grid
+- [  ] Item Card
 
 ## Define Website Structure
 ### Sections
