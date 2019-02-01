@@ -1,7 +1,5 @@
 import { Injectable } from '@angular/core';
-
 import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
-
 import { Item } from './item.model';
 
 @Injectable()
@@ -16,5 +14,9 @@ export class ItemService {
 
   getItems() {
     return this.items;
+  }
+
+  addItem(newItem: Item) {
+    this.items.push(newItem);
   }
 }
