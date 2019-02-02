@@ -1,14 +1,14 @@
 # Project Planning
 
 ## Purpose
-To 'clone' as closely as I can the Under Armour website.
+To 'clone' as closely as I can the [Under Armour website](https://www.underarmour.com/en-us/).
 
 ## Setup Instructions
 - [x] SETUP.md  
 
 ## Assignment Objectives
-- [ ] Project includes a detailed README with information on all completed features as well as features to be added.
-- [ ] Project includes a detailed commit history that clearly shows at least eight hours of work between 8 and 5 on Friday. You are also welcome to put additional work into your project outside of that time frame.
+- [x] Project includes a detailed README with information on all completed features as well as features to be added.
+- [x] Project includes a detailed commit history that clearly shows at least eight hours of work between 8 and 5 on Friday. You are also welcome to put additional work into your project outside of that time frame.
 - [ ] Project demonstrates understanding of this week's concepts. If prompted, you are able to discuss your code with an instructor using correct terminology.
 
 ## Planned Homepage Components
@@ -70,7 +70,6 @@ New:
 ## Specifications
 | Behavior | Input | Output |
 |----------|-------|--------|
-
 
 ## Potential Technical Needs For Item Display
 - Unsplash API call for item images
