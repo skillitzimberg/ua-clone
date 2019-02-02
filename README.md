@@ -58,7 +58,12 @@ ng serve --open
 ```
 Your default browser should open a new window or tab with the website/app ready to use at [localhost:4200](localhost:4200).  
 
+## Acknowledgements
+I have code from [alligator.io](https://alligator.io/angular/real-time-search-angular-rxjs/) in a search service. It's not working due to version issues, but it seems to be a good guide for digging through current documentation. It seems like the process is solid, but I just need to figure pout how to make a translation to my Angular environment.
+
 ## Known Bugs
+Many links are non-functional.  
+There is a non-breaking error in gender.pipe that I haven't been able to figure out.
 
 ## Support
 Scott Bergler :: commandinghands@gmail.com
