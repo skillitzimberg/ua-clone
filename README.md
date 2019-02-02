@@ -1,5 +1,7 @@
 # UaClone
-![](img/HomeScreen.png)
+
+![](screenshots/HomeScreen.png)
+
 This project is an attempt to 'clone' the [Under Armour website](https://www.underarmour.com/en-us/).
 
 You can see the current state of my project deployed [here](https://ua-clone.firebaseapp.com).
