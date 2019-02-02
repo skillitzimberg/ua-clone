@@ -10,6 +10,7 @@ Scott Bergler
 **[Resources](#resources)**<br>
 **[Setup & Installation](#setup-and-installation)**<br>
 **[Known Bugs](#known-bugs)**<br>
+**[Acknowledgements](#acknowledgements)**<br>
 **[Support](#support)**<br>
 **[Technologies Used](#technologies-used)**<br>
 **[License](#license)**<br>
@@ -63,7 +64,8 @@ I have code from [alligator.io](https://alligator.io/angular/real-time-search-an
 
 ## Known Bugs
 Many links are non-functional.  
-There is a non-breaking error in gender.pipe that I haven't been able to figure out.
+There is a non-breaking error in gender.pipe that I haven't been able to figure out.  
+There is commented out code relating to an attempt to make a live search input. See the [Acknowledgements](#acknowledgements) above.
 
 ## Support
 Scott Bergler :: commandinghands@gmail.com
