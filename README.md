@@ -1,4 +1,5 @@
 # UaClone
+![](img/HomeScreen.png)
 This project is an attempt to 'clone' the [Under Armour website](https://www.underarmour.com/en-us/).
 
 You can see the current state of my project deployed [here](https://ua-clone.firebaseapp.com).
@@ -103,7 +104,7 @@ ng serve --open
 Your default browser should open a new window or tab with the website/app ready to use at [localhost:4200](localhost:4200).  
 
 ## Acknowledgements
-I have code from [alligator.io](https://alligator.io/angular/real-time-search-angular-rxjs/) in a search service. It's not working due to version issues, but it seems to be a good guide for digging through current documentation. It seems like the process is solid, but I just need to figure pout how to make a translation to my Angular environment.
+I have code from [alligator.io](https://alligator.io/angular/real-time-search-angular-rxjs/) in a search service. It's not working due to version issues, but it seems to be a good guide for digging through current documentation. It seems like the process is solid, but I just need to figure out how to make a translation to my Angular environment.
 
 ## Known Bugs
 Many links are non-functional.  
@@ -120,6 +121,7 @@ For versions and a full list of dependencies, plugins, and scripts see the "devD
 
 | Dependency | Description |
 | --- | --- |
+| angularfire2 | library for connecting Firebase with Angular |
 | babel-core | Babel compiler core |
 | babel-loaded | Babel loader for webpack |
 | babel-present-es2015 | Specifies how Babel can convert ES6 to ES5 |
@@ -128,6 +130,7 @@ For versions and a full list of dependencies, plugins, and scripts see the "devD
 | dotenv-webpack | imports information like API keys from .env to src/anyfile.js |
 | eslint | Identifies and reports on patterns found in Javscript code |
 | eslint-loader | ESLint loader for webpack |
+| firebase | library for working with Firebase |
 | html-webpack-plugin | Simplifies creation of HTML files to serve webpack bundles |
 | jasmine | Allows Jasmine specs to be run |
 | jasmine-core | JavaScript BDD testing framework |
@@ -140,7 +143,7 @@ For versions and a full list of dependencies, plugins, and scripts see the "devD
 | karma-webpack | Use webpack to preprocess files in Karma |
 | style-loader | adds CSS to the DOM by injecting a `<style>` tag |
 | uglifyjs-webpack-plugin | Minifies JavaScript |
-| webpack | A module bundler used to bundle JavaScript files and additional resources   *Note - Remove carrot sign ^ in version number if webpack issues occur* |
+| webpack | A module bundler used to bundle JavaScript files and additional resources |
 | webpack-cli | Use webpack from command line |
 | webpack-dev-server | Provides live reloading during development |
 | css-loader and style-loader | renders images in DOM when `<img>` tag is used |
