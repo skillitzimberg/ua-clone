@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Http } from '@angular/http';
+import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/debounceTime';
@@ -11,7 +11,7 @@ export class SearchService {
   baseUrl: string = 'https://ua-clone.firebaseio.com';
   queryUrl: string = '?search=';
 
-  constructor( private http: Http ) { }
+  constructor( private http: HttpClient ) { }
 
   search(terms: Observable<string>) {
     return terms.debounceTime(400)
@@ -22,6 +22,6 @@ export class SearchService {
   searchEntries(term) {
     return this.http
         .get(this.baseUrl + this.queryUrl + term)
-        .map(res => res.json());
+        .map(res => JSON.parse(res));
   }
 }

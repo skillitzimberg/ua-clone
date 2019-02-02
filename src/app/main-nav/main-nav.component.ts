@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
 import { SearchService } from '../search.service';
 import { Subject } from 'rxjs/Subject';
 
@@ -6,7 +7,7 @@ import { Subject } from 'rxjs/Subject';
   selector: 'app-main-nav',
   templateUrl: './main-nav.component.html',
   styleUrls: ['./main-nav.component.css'],
-  providers: [ SearchService ]
+  providers: [ SearchService, HttpClient ]
 })
 export class MainNavComponent implements OnInit {
   results: Object;
