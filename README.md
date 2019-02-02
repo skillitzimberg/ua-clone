@@ -47,6 +47,49 @@ cd ua-clone/
 
 Open the project in a text editor like Atom or VS Code.
 
+#### Setup for Firebase database usage
+Go to [Firebase](https://firebase.google.com/).
+Set up an account for yourself. If you already have a Google or Gmail account, you already have access - just sign in.  
+Once you've created an account, you should be taken to a user dashboard area, with an option to Create a New Project. Select this option, provide a name for your new project, and select your Country/region from the drop-down menu.  
+
+You'll then be taken to an "Overview" area. Where you'll be offered three options:  
+
+- Add Firebase to your iOS app
+- Add Firebase to your Android app
+- Add Firebase to your web app
+
+Select Add Firebase to your web app. Firebase should respond with a pop-up modal window. Keep the information in this modal handy.  
+
+Create a new file called api-keys.ts in the src/app directory. This file has been added to the .gitingore, so your credentials will not be pushed to Github.  
+
+Copy your Firebase credentials into api-keys.ts (the x's represent your specific information just for this example. Replace them with your actual credentials):
+```
+export const masterFirebaseConfig = {
+    apiKey: "xxxx",
+    authDomain: "xxxx.firebaseapp.com",
+    databaseURL: "https://xxxx.firebaseio.com",
+    storageBucket: "xxxx.appspot.com",
+    messagingSenderId: "xxxx"
+  };
+```
+
+**NOTE: The exported constant in the above code must be named masterFirebaseConfig. If you decide to rename it here you will need to find masterFirebaseConfig everywhere in the project and replace it with your constant's name.**
+
+To seed your database with a few entries:
+- go to your Firebase Console and select your project's database.  
+
+- click on the Database option in the left-hand navigational menu.
+
+- select the 3 vertical dots on the right-hand side of the grey bar with your database URL on it. (It's right next to the + and - buttons). This should bring up a small menu.
+
+- select Import JSON from this menu. This will result in a modal window prompting you to upload a file.
+
+- locate the item-data.json file from the project, and upload it.
+
+After the file is uploaded, you should see data in your database.
+
+**NOTE: There is a hidden "admin" page (http://localhost:4200/admin) that has a form for adding items to the database . . . one by one. It might be faster to add a bunch of stuff to item-data.json and upload it to Firebase. But it's nice if you want to check how a variety of data might affect things.**
+
 #### Run the application
 In the project root directory run the command:
 ```
