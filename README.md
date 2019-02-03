@@ -113,6 +113,8 @@ Many links are non-functional.
 There is a non-breaking error in gender.pipe that I haven't been able to figure out.  
 There is commented out code relating to an attempt to make a live search input. See the [Acknowledgements](#acknowledgements) above.
 
+The main menu links do not work on the Firebase-deployed site. I deployed another project while trying to troubleshoot - [ScrapProject](https://scrapproject-e7eb6.firebaseapp.com/index). It has more routing routing than this project and a database. It works as expected. Confusing . . . 
+
 ## Support
 Scott Bergler :: commandinghands@gmail.com
 
