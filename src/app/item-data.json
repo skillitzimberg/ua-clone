@@ -25,11 +25,22 @@
     "gender": "girls",
     "category": "bottoms",
     "subcategories": ["soccer"],
-    "name": "twisted ankle",
-    "description": "spiky, fast, painful",
-    "price": 87.50,
+    "name": "beckham",
+    "description": "blue, black, red",
+    "price": 91.50,
     "new arrival": false,
     "best seller": true,
+    "outlet": true
+  },
+  {
+    "gender": "men",
+    "category": "bottoms",
+    "subcategories": ["shorts"],
+    "name": "concussion",
+    "description": "hard, deep, pockets",
+    "price": 34.50,
+    "new arrival": true,
+    "best seller": false,
     "outlet": true
   }
   ]
